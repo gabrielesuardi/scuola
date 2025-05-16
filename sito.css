@@ -1,1 +1,40 @@
+* Stili di base"/
+ 
+body { 
+font-family: Arial, sans-serif;
+line-height: 1.6;
+margin: 0; 
+padding: 0;
+}
+ 
+header {
+background-color: #4CAF50;
+color: white;
+text-align: center;
+padding: 10px;
+}
 
+header img {
+width: 100%;
+max-height: 200px;
+}
+ 
+main {
+  padding: 20px;
+}
+ 
+main img {
+  width: 150px;
+  height: auto;
+  margin: 10px;
+   
+}
+ 
+a{
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+  a:hover{
+    text-decoration: underline;
+  }
